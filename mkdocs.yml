@@ -1,6 +1,6 @@
-site_name: Reinforcement Learning
-site_description: Introduction to reinforcement learning class, given at ISAE-Supaero
-site_url: https://supaerodatascience.github.io/reinforcement-learning/
+site_name: 2021 Reinforcement Learning Virtual School
+site_description: 2021 Reinforcement Learning Virtual School
+site_url: https://RL-VS.github.io/rlvs2021
 site_dir: site
 strict: false
 use_directory_urls: false

@@ -1,6 +1,6 @@
 # Emmanuel Rachelson
 
-<img width=300px" align="middle" src="https://github.com/RL-VS/rlvs2021/docs/img/erachelson.jpg"></img>
+<img width=300px" align="middle" src="https://github.com/RL-VS/rlvs2021/blob/main/docs/img/erachelson.jpg"></img>
 
 I am a professor of Machine Learning and Optimization at [ISAE-SUPAERO](https://www.isae-supaero.fr).
 

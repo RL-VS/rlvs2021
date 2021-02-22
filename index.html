@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Introduction to reinforcement learning class, given at ISAE-Supaero">
+    
+    <link rel="canonical" href="https://supaerodatascience.github.io/reinforcement-learning/index.html">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    
+    <title>RLVS home - Reinforcement Learning</title>
+    
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
+    <link href='//rsms.me/inter/inter.css' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="css/base.min.css" rel="stylesheet">
+    <link href="css/cinder.min.css" rel="stylesheet">
+
+    
+        
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
+        
+    
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    
+
+     
+</head>
+
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            
+              <a class="navbar-brand" href=".">Reinforcement Learning</a>
+            
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li class="active">
+                        <a href="index.html">RLVS home</a>
+                    </li>
+                
+                
+                
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Classes <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li >
+    <a href="rlvs-overview.html">RLVS overview</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
+                
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Speakers <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li >
+    <a href="emmanuel-rachelson.html">E. Rachelson</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="organizers.html">Organizers</a>
+                    </li>
+                
+                
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li class="disabled">
+                        <a rel="prev" >
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="next" href="rlvs-overview.html">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/RL-VS/rlvs2021/edit/master/docs/index.md">Edit on RL-VS/rlvs2021</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="first-level active"><a href="#rlvs-2021">RLVS 2021</a></li>
+            <li class="second-level"><a href="#goals-of-rlvs">Goals of RLVS</a></li>
+                
+            <li class="second-level"><a href="#rlvs-schedule">RLVS schedule</a></li>
+                
+        <li class="first-level "><a href="#speakers">Speakers</a></li>
+            <li class="second-level"><a href="#organizers">Organizers</a></li>
+                
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h1 id="rlvs-2021">RLVS 2021<a class="headerlink" href="#rlvs-2021" title="Permanent link">🔗</a></h1>
+<p>Welcome to the 2021 Reinforcement Learning Virtual School.</p>
+<p>This edition is hosted by <a href="https://www.aniti.fr">ANITI</a>.<br />
+Event website: <a href="https://rlvs.aniti.fr">https://rlvs.aniti.fr</a>.</p>
+<h2 id="goals-of-rlvs">Goals of RLVS<a class="headerlink" href="#goals-of-rlvs" title="Permanent link">🔗</a></h2>
+<p>RLVS intends to provide a high-quality, easy access to the field of Reinforcement Learning to new researchers. It aims to:
+- Allow attendees to step in to the field of RL
+- Learn from top lecturers in the field
+- Provide broad access to live classes </p>
+<h2 id="rlvs-schedule">RLVS schedule<a class="headerlink" href="#rlvs-schedule" title="Permanent link">🔗</a></h2>
+<p>This condensed schedule does not include class breaks and social events.</p>
+<table>
+<thead>
+<tr>
+<th>Schedule</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>March 25th</td>
+<td>9:00-9:30</td>
+<td><a href="rlvs-overview.html">RLVS Overview</a></td>
+<td><a href="emmanuel-rachelson.html">E. Rachelson</a></td>
+</tr>
+<tr>
+<td></td>
+<td>9:30-12:30</td>
+<td>RL fundamentals</td>
+<td><a href="emmanuel-rachelson.html">E. Rachelson</a></td>
+</tr>
+<tr>
+<td></td>
+<td>14:00-16:00</td>
+<td>Deep Learning</td>
+<td>D. Wilson</td>
+</tr>
+<tr>
+<td></td>
+<td>16:30-17:30</td>
+<td>Human behavioral agents</td>
+<td>I. Rish</td>
+</tr>
+<tr>
+<td>March 26th</td>
+<td>10:00-12:00</td>
+<td>Stochastic bandits</td>
+<td>T. Lattimore</td>
+</tr>
+<tr>
+<td></td>
+<td>14:00-16:00</td>
+<td>Monte Carlo Tree Search</td>
+<td>T. Lattimore</td>
+</tr>
+<tr>
+<td></td>
+<td>16:30-17:30</td>
+<td>Multi-armed bandits in clinical trials</td>
+<td>D. A. Berry</td>
+</tr>
+<tr>
+<td>April 1st</td>
+<td>9:00-15:00</td>
+<td>From Approximate Value Iteration to DQN (and Beyond)</td>
+<td>B. Piot</td>
+</tr>
+<tr>
+<td></td>
+<td>15:15-16:15</td>
+<td>Regularized MDPs</td>
+<td>M. Geist</td>
+</tr>
+<tr>
+<td></td>
+<td>16:30-17:30</td>
+<td>TBA</td>
+<td>M. Wang</td>
+</tr>
+<tr>
+<td>April 2nd</td>
+<td>9:00-12:30</td>
+<td>Policy Gradients and Actor Critic methods</td>
+<td>O. Sigaud</td>
+</tr>
+<tr>
+<td></td>
+<td>14:00-15:00</td>
+<td>Pitfalls in Policy Gradient methods</td>
+<td>O. Sigaud</td>
+</tr>
+<tr>
+<td></td>
+<td>15:30-17:30</td>
+<td>Exploration in Deep RL</td>
+<td>M. Pirotta</td>
+</tr>
+</tbody>
+</table>
+<h1 id="speakers">Speakers<a class="headerlink" href="#speakers" title="Permanent link">🔗</a></h1>
+<table>
+<thead>
+<tr>
+<th>Sorted alphabetically</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Donald A. Berry</td>
+<td>University of Texas and Rice University</td>
+</tr>
+<tr>
+<td><a href="emmanuel-rachelson.html">Emmanuel Rachelson</a></td>
+<td>ISAE-SUPAERO, Université de Toulouse</td>
+</tr>
+<tr>
+<td>Irina Rish</td>
+<td>Université de Montréal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="organizers">Organizers<a class="headerlink" href="#organizers" title="Permanent link">🔗</a></h2></div>
+        
+        
+    </div>
+
+    
+      <footer class="col-md-12 text-center">
+          
+          
+            <hr>
+            <p>
+            <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small>
+            </p>
+          
+
+          
+          
+      </footer>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap-3.0.3.min.js"></script>
+
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
+        
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    <script>var base_url = "."</script>
+    
+    <script src="js/base.js"></script>
+    <script src="search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>

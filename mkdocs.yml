@@ -4,6 +4,7 @@ site_url: https://RL-VS.github.io/rlvs2021
 site_dir: site
 strict: false
 use_directory_urls: false
+site_favicon: favicon.ico
 
 theme:
   name: 'cinder'
@@ -20,8 +21,10 @@ nav:
 - RLVS home: index.md
 - Classes: 
     - RLVS overview: rlvs-overview.md
+    - RL fundamentals: rl-fundamentals.md
 - Speakers:
     - E. Rachelson: emmanuel-rachelson.md
+    - D. Wilson: dennis-wilson.md
 - Organizers: organizers.md
 
 markdown_extensions:

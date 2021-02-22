@@ -6,7 +6,7 @@ strict: false
 use_directory_urls: false
 
 theme:
-  name: 'material'
+  name: 'cinder'
   logo: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
   favicon: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
   features:

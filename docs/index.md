@@ -18,8 +18,8 @@ This condensed schedule does not include class breaks and social events.
 
 Schedule | | | |
 | --- | --- | --- | --- |
-| March 25th | 9:00-9:30   | [RLVS Overview](rlvs-overview.html) | [E. Rachelson](emmanuel-rachelson.html) |
-|            | 9:30-12:30 | RL fundamentals | [E. Rachelson](emmanuel-rachelson.html) |
+| March 25th | 9:00-9:30   | [RLVS Overview](rlvs-overview.md) | [E. Rachelson](emmanuel-rachelson.md) |
+|            | 9:30-12:30 | RL fundamentals | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 14:00-16:00 | Deep Learning | D. Wilson |
 |            | 16:30-17:30 | Human behavioral agents | I. Rish |
 | March 26th | 10:00-12:00 | Stochastic bandits | T. Lattimore |
@@ -37,7 +37,7 @@ Schedule | | | |
 | Sorted alphabetically | |
 | --- | --- |
 | Donald A. Berry    | University of Texas and Rice University |
-| [Emmanuel Rachelson](emmanuel-rachelson.html) | ISAE-SUPAERO, Université de Toulouse |
+| [Emmanuel Rachelson](emmanuel-rachelson.md) | ISAE-SUPAERO, Université de Toulouse |
 | Irina Rish | Université de Montréal |
 
 ## Organizers

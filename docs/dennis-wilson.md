@@ -1,6 +1,6 @@
 # Dennis Wilson
 
-![Photo](img/dwilson.png)
+![Photo](img/dwilson.jpg)
 
 I am an assistant professor in AI and Data Science at [ISAE-SUPAERO](https://www.isae-supaero.fr).
 

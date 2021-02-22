@@ -7,7 +7,7 @@ Event website: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).
 
 ## Goals of RLVS
 
-RLVS intends to provide a high-quality, easy access to the field of Reinforcement Learning to new researchers. It aims to:
+RLVS intends to provide a high-quality, easy access to the field of Reinforcement Learning to new researchers. It aims to:  
 - Allow attendees to step in to the field of RL
 - Learn from top lecturers in the field
 - Provide broad access to live classes 

@@ -48,8 +48,8 @@ Schedule | | | |
 | --- | --- |
 | Donald A. Berry    | University of Texas and Rice University |
 | [Emmanuel Rachelson](emmanuel-rachelson.md) | ISAE-SUPAERO, Université de Toulouse |
-| [Dennis Wilson](dennis-wilson.md) | ISAE-SUPAERO, Université de Toulouse |
 | Irina Rish | Université de Montréal |
+| [Dennis Wilson](dennis-wilson.md) | ISAE-SUPAERO, Université de Toulouse |
 
 ## Organizers
 

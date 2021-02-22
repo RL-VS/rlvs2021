@@ -6,10 +6,7 @@ strict: false
 use_directory_urls: false
 
 theme:
-  name: 'cinder'
-  palette:
-    primary: light blue
-    accent: light blue
+  name: 'material'
   logo: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
   favicon: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
   features:

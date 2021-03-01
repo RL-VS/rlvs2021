@@ -1,4 +1,4 @@
-site_name: 2021 Reinforcement Learning Virtual School
+site_name: 2021 RL Virtual School
 site_description: 2021 Reinforcement Learning Virtual School
 site_url: https://RL-VS.github.io/rlvs2021
 site_dir: site
@@ -67,3 +67,4 @@ markdown_extensions:
 
 plugins:
 - search
+

@@ -16,7 +16,7 @@ We expect the participants to be a mixture of masters and Ph.D. students, academ
 
 ## RLVS schedule
 
-This condensed schedule does not include class breaks and social events.
+This condensed schedule does not include class breaks and social events. Times are Central European Time (GMT+1).
 
 Schedule | | | |
 | --- | --- | --- | --- |

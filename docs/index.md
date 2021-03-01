@@ -27,17 +27,17 @@ Schedule | | | |
 | March 26th | 10:00-12:00 | Stochastic bandits | T. Lattimore |
 |            | 14:00-16:00 | Monte Carlo Tree Search | T. Lattimore |
 |            | 16:30-17:30 | Multi-armed bandits in clinical trials | D. A. Berry |
-| April 1st  | 9:00-15:00  | From Approximate Value Iteration to DQN (and Beyond) | B. Piot |
+| April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | B. Piot |
 |            | 15:15-16:15 | Regularized MDPs | M. Geist |
 |            | 16:30-17:30 | TBA | M. Wang |
-| April 2nd  | 9:00-12:30  | Policy Gradients and Actor Critic methods | O. Sigaud |
-|            | 14:00-15:00 | Pitfalls in Policy Gradient methods | O. Sigaud |
-|            | 15:30-17:30 | Exploration in Deep RL | M. Pirotta |
+| April 2nd  | 9:00-12:30  | [Policy Gradients and Actor Critic methods](pg.md) | [O. Sigaud](olivier-sigaud.md) |
+|            | 14:00-15:00 | [Pitfalls in Policy Gradient methods](pg-pitfalls.md) | [O. Sigaud](olivier-sigaud.md) |
+|            | 15:30-17:30 | [Exploration in Deep RL](exploration.md) | [M. Pirotta](matteo-pirotta.md) |
 | April 8th  | 9:00-11:00  | Evolutionary Reinforcement Learning | [D. Wilson](dennis-wilson.md), J.-B. Mouret |
 |            | 11:30-12:30 | TBA | S. Risi |
 |            | 14:00-16:00 | Micro-data Policy Search | K. Chatzilygeroudis, J.-B. Mouret |
 |            | 14:00-16:00 | TBA |  |
-| April 9th  | 9:00-13:00  | RL tips and tricks | A. Raffin |
+| April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | A. Raffin |
 |            | 14:30-15:30 | TBA | M. Garnelo |
 |            | 15:45-16:45 | TBA | L. P. Kaelbling |
 |            | 17:00-18:00 | RLVS wrap-up | [E. Rachelson](emmanuel-rachelson.md) |

@@ -4,7 +4,6 @@ site_url: https://RL-VS.github.io/rlvs2021
 site_dir: site
 strict: false
 use_directory_urls: false
-site_favicon: favicon.ico
 
 theme:
   name: 'cinder'
@@ -22,14 +21,35 @@ nav:
 - Classes: 
     - RLVS overview: rlvs-overview.md
     - RL fundamentals: rl-fundamentals.md
+    - Intro to Deep Learning: deep-learning.md
+    - Human behavioral agents: human-behavioral-agents.md
+    - Stochastic bandits: stochastic-bandits.md
+    - Monte Carlo Tree Search: mcts.md
+    - Multi-armed bandits in clinical trials: clinical.md
     - Deep Q-Networks and its variants: dqn.md
+    - Regularized MDPs: regularized-mdps.md
     - Policy Gradients and Actor Critic methods: pg.md
     - Pitfalls in Policy Gradient methods: pg-pitfalls.md
     - Exploration in Deep RL: exploration.md
+    - Evolutionary Reinforcement Learning: evo-rl.md
+    - Micro-data Policy Search: micro-data.md
     - RL tips and tricks: tips-and-tricks.md
 - Speakers:
+    - D. A. Berry: donald-berry.md
+    - K. Chatzilygeroudis: konstantinos-chatzilygeroudis.md
+    - M. Garnelo: marta-garnelo.md
+    - M. Geist: matthieu-geist.md
+    - L. P. Kaelbling: leslie-kaelbling.md
+    - T. Lattimore: tor-lattimore.md
+    - J.-B. Mouret: jean-baptiste-mouret.md
+    - B. Piot: bilal-piot.md
+    - M. Pirotta: matteo-pirotta.md
     - E. Rachelson: emmanuel-rachelson.md
+    - A. Raffin: antonin-raffin.md
+    - I. Rish: irina-rish.md
+    - S. Risi: sebastian-risi.md
     - O. Sigaud: olivier-sigaud.md
+    - M. Wang: mengdi-wang.md
     - D. Wilson: dennis-wilson.md
 - Organizers: organizers.md
 

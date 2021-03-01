@@ -22,8 +22,14 @@ nav:
 - Classes: 
     - RLVS overview: rlvs-overview.md
     - RL fundamentals: rl-fundamentals.md
+    - Deep Q-Networks and its variants: dqn.md
+    - Policy Gradients and Actor Critic methods: pg.md
+    - Pitfalls in Policy Gradient methods: pg-pitfalls.md
+    - Exploration in Deep RL: exploration.md
+    - RL tips and tricks: tips-and-tricks.md
 - Speakers:
     - E. Rachelson: emmanuel-rachelson.md
+    - O. Sigaud: olivier-sigaud.md
     - D. Wilson: dennis-wilson.md
 - Organizers: organizers.md
 

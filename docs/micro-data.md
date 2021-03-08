@@ -6,7 +6,7 @@ Most policy search algorithms require thousands of training episodes to find an 
 
 ## Speakers
 
-[Jean-Baptiste Mouret](jean-baptiste-mouret.md)
+[Jean-Baptiste Mouret](jean-baptiste-mouret.md)  
 [Konstantinos Chatzilygeroudis](konstantinos-chatzilygeroudis.md)
 
 ## Class material

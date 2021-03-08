@@ -4,11 +4,12 @@ site_url: https://RL-VS.github.io/rlvs2021
 site_dir: site
 strict: false
 use_directory_urls: false
+edit_uri: edit/main/docs/
 
 theme:
   name: 'cinder'
-  logo: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
-  favicon: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/master/favicon.ico'
+  logo: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/main/docs/img/favicon.ico'
+  favicon: 'https://raw.githubusercontent.com/RL-VS/rlvs2021/main/docs/img/favicon.ico'
   features:
     - toc.autohide
     - navigation.sections

@@ -38,7 +38,7 @@ Schedule | | | |
 | April 8th  | 9:00-11:00  | [Evolutionary Reinforcement Learning](evo-rl.md) | [D. Wilson](dennis-wilson.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
 |            | 11:30-12:30 | TBA | [S. Risi](sebastian-risi.md) |
 |            | 14:00-16:00 | [Micro-data Policy Search](micro-data.md) | [K. Chatzilygeroudis](konstantinos-chatzilygeroudis.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
-|            | 14:00-16:00 | TBA |  |
+|            | 16:30-17:30 | TBA |  |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
 |            | 14:30-15:30 | TBA | [M. Garnelo](marta-garnelo.md) |
 |            | 15:45-16:45 | TBA | [L. P. Kaelbling](leslie-kaelbling.md) |

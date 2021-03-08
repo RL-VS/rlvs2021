@@ -23,7 +23,7 @@ Doc: [https://stable-baselines3.readthedocs.io/en/master/](https://stable-baseli
     1. Introduction (3 minutes)
 
     2. RL Tips and tricks (45 minutes)
-        1. General Nuts and Bolt of RL experimentation (10 minutes)
+        1. General Nuts and Bolts of RL experimentation (10 minutes)
         2. RL in practice on a custom task (custom environment) (30 minutes)
         3. Questions? (5 minutes)
 

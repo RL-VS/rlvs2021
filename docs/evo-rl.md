@@ -6,7 +6,7 @@ Reinforcement learning traditionally takes inspiration from operant conditioning
 
 ## Speakers
 
-[Jean-Baptiste Mouret](jean-bapstiste-mouret.md)
+[Jean-Baptiste Mouret](jean-baptiste-mouret.md)
 [Dennis Wilson](dennis-wilson.md)
 
 ## Class material

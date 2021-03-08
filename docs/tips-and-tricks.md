@@ -4,14 +4,18 @@
 
 The aim of the session is to help you do reinforcement learning experiments. The first part covers general advice about RL, tips and tricks and details three examples where RL was applied on real robots. The second part will be a practical session using the Stable-Baselines3 library.
 
+## Speaker
+
+[Antonin Raffin](antonin-raffin.md)
+
 ## Pre-requisites
 
 Python programming, RL basics, (recommended: Google account for the practical session in order to use Google Colab).
 
 ## Additional material
 
-Website: https://github.com/DLR-RM/stable-baselines3  
-Doc: https://stable-baselines3.readthedocs.io/en/master/  
+Website: [https://github.com/DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)    
+Doc: [https://stable-baselines3.readthedocs.io/en/master/](https://stable-baselines3.readthedocs.io/en/master/)  
 
 ## Outline
 

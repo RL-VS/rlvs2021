@@ -1,3 +1,3 @@
 # David Bertoin
 
-![Photo](img/dbertoin.jpg)
+![Photo](img/dbertoin.png)

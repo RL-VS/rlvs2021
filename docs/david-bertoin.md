@@ -1,3 +1,2 @@
 # David Bertoin
-
-![Photo](img/dbertoin.png)
+<img src="img/dbertoin.png" alt="drawing" width="250"/>

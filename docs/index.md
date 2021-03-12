@@ -40,8 +40,8 @@ Schedule | | | |
 |            | 14:00-16:00 | [Micro-data Policy Search](micro-data.md) | [K. Chatzilygeroudis](konstantinos-chatzilygeroudis.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
 |            | 16:30-17:30 | TBA |  |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
-|            | 14:30-15:30 | TBA | [M. Garnelo](marta-garnelo.md) |
-|            | 15:45-16:45 | TBA | [L. P. Kaelbling](leslie-kaelbling.md) |
+|            | 14:30-15:30 | [Symbolic representations and reinforcement learning(symbolic.md)] | [M. Garnelo](marta-garnelo.md) |
+|            | 15:45-16:45 | [Leveraging model-learning for extreme generalization](model-learning.md) | [L. P. Kaelbling](leslie-kaelbling.md) |
 |            | 17:00-18:00 | RLVS wrap-up | [E. Rachelson](emmanuel-rachelson.md) |
 
 ## Speakers

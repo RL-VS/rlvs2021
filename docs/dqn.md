@@ -7,6 +7,7 @@ We will present in a coherent paradigm the different breakthroughs that led to t
 ## Speaker
 
 [Bilal Piot](bilal-piot.md)
+
 [Corentin Tallec](corentin-tallec.md)
 
 ## Prerequisites

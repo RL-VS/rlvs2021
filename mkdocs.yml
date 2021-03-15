@@ -35,8 +35,8 @@ nav:
     - Evolutionary Reinforcement Learning: evo-rl.md
     - Micro-data Policy Search: micro-data.md
     - RL tips and tricks: tips-and-tricks.md
-    - Leveraging model-learning for extreme generalization: model-learning.md
     - Symbolic representations and reinforcement learning: symbolic.md
+    - Leveraging model-learning for extreme generalization: model-learning.md
 - Speakers:
     - D. A. Berry: donald-berry.md
     - K. Chatzilygeroudis: konstantinos-chatzilygeroudis.md

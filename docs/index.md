@@ -63,6 +63,7 @@ Schedule | | | |
 | [Irina Rish](irina-rish.md) | Université de Montréal |
 | [Sebastian Risi](sebastian-risi.md) | University of Copenhagen |
 | [O. Sigaud](olivier-sigaud.md) | Sorbonne Université |
+| [C. Tallec](corentin-tallec.md) | Deepmind |
 | [Mengdi Wang](mengdi-wang.md) | Princeton University |
 | [Dennis Wilson](dennis-wilson.md) | ISAE-SUPAERO, Université de Toulouse |
 

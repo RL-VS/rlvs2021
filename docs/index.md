@@ -75,7 +75,7 @@ Schedule | | | |
 | [Tommaso Cesari](tommaso-cesari.md) | Toulouse School of Economics |
 | [Sébastien Gerchinovitz](sebastien-gerchinovitz.md) | IRT Saint Exupéry and Institut de Mathématiques de Toulouse |
 | [Nicolas Mansard](nicolas-mansard.md) | LAAS-CNRS |
-| [Emmanuel Rachelson](emmanuel-rachelson.md) | ISAE-SUPAERO |
+| [Emmanuel Rachelson](emmanuel-rachelson.md) | ISAE-SUPAERO, Université de Toulouse |
 
 
 | Local arrangement chair | |

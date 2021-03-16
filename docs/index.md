@@ -37,7 +37,7 @@ Schedule | | | |
 |            | 14:00-15:00 | [Pitfalls in Policy Gradient methods](pg-pitfalls.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 15:30-17:30 | [Exploration in Deep RL](exploration.md) | [M. Pirotta](matteo-pirotta.md) |
 | April 8th  | 9:00-11:00  | [Evolutionary Reinforcement Learning](evo-rl.md) | [D. Wilson](dennis-wilson.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
-|            | 11:30-12:30 | TBA | [S. Risi](sebastian-risi.md) |
+|            | 11:30-12:30 | [Evolving Agents that Learn More Like Animals](evolving_agents.md) | [S. Risi](sebastian-risi.md) |
 |            | 14:00-16:00 | [Micro-data Policy Search](micro-data.md) | [K. Chatzilygeroudis](konstantinos-chatzilygeroudis.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
 |            | 16:30-17:30 | TBA |  |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |

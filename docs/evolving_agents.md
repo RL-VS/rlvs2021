@@ -6,7 +6,7 @@ Deep neuroevolution, a combination of deep neural networks and evolutionary algo
 
 ## Speaker
 
-[Sebastian Risi](sebastien-risi.md)
+[Sebastian Risi](sebastian-risi.md)
 
 ## Class material
 

@@ -37,6 +37,7 @@ nav:
     - RL tips and tricks: tips-and-tricks.md
     - Symbolic representations and reinforcement learning: symbolic.md
     - Leveraging model-learning for extreme generalization: model-learning.md
+    - Evolving Agents that Learn More Like Animals: evolving_agents.md
 - Speakers:
     - D. A. Berry: donald-berry.md
     - K. Chatzilygeroudis: konstantinos-chatzilygeroudis.md

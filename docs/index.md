@@ -30,7 +30,7 @@ Schedule | | | |
 | March 26th | 10:00-12:00 | [Stochastic bandits](stochastic-bandits.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 14:00-16:00 | [Monte Carlo Tree Search](mcts.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |
-| April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md) |
+| April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md), [C. Tallec](corentin-tallec.md) |
 |            | 15:15-16:15 | [Regularized MDPs](regularized-mdps.md) | [M. Geist](matthieu-geist.md) |
 |            | 16:30-17:30 | TBA | [M. Wang](mengdi-wang.md) |
 | April 2nd  | 9:00-12:30  | [Policy Gradients and Actor Critic methods](pg.md) | [O. Sigaud](olivier-sigaud.md) |

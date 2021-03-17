@@ -51,7 +51,7 @@ Schedule | | | |
 | --- | --- |
 | [Donald A. Berry](donald-berry.md)    | University of Texas and Rice University |
 | [Konstantinos Chatzilygeroudis](konstantinos-chatzilygeroudis.md) | University of Patras |
-| [Marta Garnelo](marta-garnelo.md) | DeepMind & Imperial College |
+| [Marta Garnelo](marta-garnelo.md) | DeepMind|
 | [Matthieu Geist](matthieu-geist.md) | Google Brain |
 | [Leslie P. Kaelbling](leslie-kaelbling.md) | MIT |
 | [Tor Lattimore](tor-lattimore.md) | DeepMind |
@@ -63,7 +63,7 @@ Schedule | | | |
 | [Irina Rish](irina-rish.md) | Université de Montréal |
 | [Sebastian Risi](sebastian-risi.md) | University of Copenhagen |
 | [O. Sigaud](olivier-sigaud.md) | Sorbonne Université |
-| [C. Tallec](corentin-tallec.md) | Deepmind |
+| [C. Tallec](corentin-tallec.md) | DeepMind |
 | [Mengdi Wang](mengdi-wang.md) | Princeton University |
 | [Dennis Wilson](dennis-wilson.md) | ISAE-SUPAERO, Université de Toulouse |
 

@@ -9,7 +9,7 @@ Keep an eye on either of these pages. There we will publish further instructions
 
 ## How do I log in to the chat sessions? Do I need to be a registered participant?
 
-If you already have a Matrix.org account, please follow [these instructions](matrix/matrix_RLVS_server.pdf).  
+If you already have a Matrix.org account, please follow [these instructions](matrix/matrix_RLVS_server.pdf).
 If you do not have a Matrix.org account, please follow [these instructions](matrix/matrix.pdf). You don't need to be a registered participant for that.
 
 ## Can I get a certificate of attendance for RLVS?

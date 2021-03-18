@@ -26,18 +26,18 @@ Schedule | | | |
 |            | 9:10-9:30   | [RLVS Overview](rlvs-overview.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 9:30-12:30  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 14:00-16:00 | [Deep Learning](deep-learning.md) | [D. Wilson](dennis-wilson.md) |
-|            | 16:30-17:30 | [Human behavioral agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
+|            | 16:30-17:30 | [Reward Processing Biases in Humans and RL Agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
 | March 26th | 10:00-12:00 | [Stochastic bandits](stochastic-bandits.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 14:00-16:00 | [Monte Carlo Tree Search](mcts.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |
-| April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md) |
+| April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md), [C. Tallec](corentin-tallec.md) |
 |            | 15:15-16:15 | [Regularized MDPs](regularized-mdps.md) | [M. Geist](matthieu-geist.md) |
 |            | 16:30-17:30 | TBA | [M. Wang](mengdi-wang.md) |
 | April 2nd  | 9:00-12:30  | [Policy Gradients and Actor Critic methods](pg.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 14:00-15:00 | [Pitfalls in Policy Gradient methods](pg-pitfalls.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 15:30-17:30 | [Exploration in Deep RL](exploration.md) | [M. Pirotta](matteo-pirotta.md) |
 | April 8th  | 9:00-11:00  | [Evolutionary Reinforcement Learning](evo-rl.md) | [D. Wilson](dennis-wilson.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
-|            | 11:30-12:30 | TBA | [S. Risi](sebastian-risi.md) |
+|            | 11:30-12:30 | [Evolving Agents that Learn More Like Animals](evolving_agents.md) | [S. Risi](sebastian-risi.md) |
 |            | 14:00-16:00 | [Micro-data Policy Search](micro-data.md) | [K. Chatzilygeroudis](konstantinos-chatzilygeroudis.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
 |            | 16:30-17:30 | TBA |  |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
@@ -51,7 +51,7 @@ Schedule | | | |
 | --- | --- |
 | [Donald A. Berry](donald-berry.md)    | University of Texas and Rice University |
 | [Konstantinos Chatzilygeroudis](konstantinos-chatzilygeroudis.md) | University of Patras |
-| [Marta Garnelo](marta-garnelo.md) | DeepMind & Imperial College |
+| [Marta Garnelo](marta-garnelo.md) | DeepMind|
 | [Matthieu Geist](matthieu-geist.md) | Google Brain |
 | [Leslie P. Kaelbling](leslie-kaelbling.md) | MIT |
 | [Tor Lattimore](tor-lattimore.md) | DeepMind |
@@ -63,7 +63,7 @@ Schedule | | | |
 | [Irina Rish](irina-rish.md) | Université de Montréal |
 | [Sebastian Risi](sebastian-risi.md) | University of Copenhagen |
 | [O. Sigaud](olivier-sigaud.md) | Sorbonne Université |
-| [C. Tallec](corentin-tallec.md) | Deepmind |
+| [C. Tallec](corentin-tallec.md) | DeepMind |
 | [Mengdi Wang](mengdi-wang.md) | Princeton University |
 | [Dennis Wilson](dennis-wilson.md) | ISAE-SUPAERO, Université de Toulouse |
 

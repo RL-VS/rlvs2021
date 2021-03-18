@@ -26,7 +26,7 @@ Schedule | | | |
 |            | 9:10-9:30   | [RLVS Overview](rlvs-overview.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 9:30-12:30  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 14:00-16:00 | [Deep Learning](deep-learning.md) | [D. Wilson](dennis-wilson.md) |
-|            | 16:30-17:30 | [Human behavioral agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
+|            | 16:30-17:30 | [Reward Processing Biases in Humans and RL Agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
 | March 26th | 10:00-12:00 | [Stochastic bandits](stochastic-bandits.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 14:00-16:00 | [Monte Carlo Tree Search](mcts.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |

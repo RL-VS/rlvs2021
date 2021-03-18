@@ -8,4 +8,4 @@ Early RL was almost completely focused on learning a policy, sometimes via a val
 
 ## Class material
 
-
+[Blog post](https://lis.csail.mit.edu/the-engineering-science-of-embodied-intelligence/)

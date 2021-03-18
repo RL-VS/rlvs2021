@@ -23,7 +23,7 @@ nav:
     - RLVS overview: rlvs-overview.md
     - RL fundamentals: rl-fundamentals.md
     - Intro to Deep Learning: deep-learning.md
-    - Human behavioral agents: human-behavioral-agents.md
+    - Reward Processing Biases in Humans and RL Agents: human-behavioral-agents.md
     - Stochastic bandits: stochastic-bandits.md
     - Monte Carlo Tree Search: mcts.md
     - Multi-armed bandits in clinical trials: clinical.md

@@ -39,7 +39,7 @@ Schedule | | | |
 | April 8th  | 9:00-11:00  | [Evolutionary Reinforcement Learning](evo-rl.md) | [D. Wilson](dennis-wilson.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
 |            | 11:30-12:30 | [Evolving Agents that Learn More Like Animals](evolving_agents.md) | [S. Risi](sebastian-risi.md) |
 |            | 14:00-16:00 | [Micro-data Policy Search](micro-data.md) | [K. Chatzilygeroudis](konstantinos-chatzilygeroudis.md), [J.-B. Mouret](jean-baptiste-mouret.md) |
-|            | 16:30-17:30 | TBA |  |
+|            | 16:30-17:30 | TBA | [D. Lee](dongheui-lee.md) |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
 |            | 14:30-15:30 | [Symbolic representations and reinforcement learning](symbolic.md) | [M. Garnelo](marta-garnelo.md) |
 |            | 15:45-16:45 | [Leveraging model-learning for extreme generalization](model-learning.md) | [L. P. Kaelbling](leslie-kaelbling.md) |
@@ -55,6 +55,7 @@ Schedule | | | |
 | [Matthieu Geist](matthieu-geist.md) | Google Brain |
 | [Leslie P. Kaelbling](leslie-kaelbling.md) | MIT |
 | [Tor Lattimore](tor-lattimore.md) | DeepMind |
+| [D. Lee](dongheui-lee.md) | Technical University of Munich |
 | [Jean-Baptiste Mouret](jean-baptiste-mouret.md) | INRIA |
 | [Bilal Piot](bilal-piot.md) | DeepMind |
 | [Matteo Pirotta](matteo-pirotta.md) | Facebook AI Research |

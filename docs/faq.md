@@ -13,6 +13,6 @@ If you already have a Matrix.org account, please follow [these instructions](mat
 
 ## Can I get a certificate of attendance for RLVS?
 
-We can issue certificates of *registration* (not attendance, since we cannot really check) for participants people who registered through Whova. We will issue them after the school.
+We can issue certificates of *registration* (not attendance, since we cannot really check) for participants who registered through Whova. We will issue them after the school.
 
 

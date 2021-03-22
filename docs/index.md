@@ -24,9 +24,7 @@ Schedule | | | |
 | --- | --- | --- | --- |
 | March 25th | 9:00-9:10   | [Opening remarks](opening.md) | [S. Gerchinovitz](sebastien-gerchinovitz.md) |
 |            | 9:10-9:30   | [RLVS Overview](rlvs-overview.md) | [E. Rachelson](emmanuel-rachelson.md) |
-|            | 9:30-10:30  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
-|            | 10:30-10:40  | Short demo of Matrix.org and Whova |  |
-|            | 11:00-12:30  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
+|            | 9:30-13:00  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 14:00-16:00 | [Introduction to Deep Learning](deep-learning.md) | [D. Wilson](dennis-wilson.md) |
 |            | 16:30-17:30 | [Reward Processing Biases in Humans and RL Agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
 |            | 17:45-18:45 | TBA | [D. Precup](doina-precup.md) |

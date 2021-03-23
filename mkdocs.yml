@@ -33,8 +33,9 @@ nav:
     - Pitfalls in Policy Gradient methods: pg-pitfalls.md
     - Exploration in Deep RL: exploration.md
     - Evolutionary Reinforcement Learning: evo-rl.md
-    - Evolving Agents that Learn More Like Animals: evolving_agents.md
+    - Evolving Agents that Learn More Like Animals: evolving-agents.md
     - Micro-data Policy Search: micro-data.md
+    - Efficient Motor Skills Learning in Robotics: efficient-motor.md
     - RL tips and tricks: tips-and-tricks.md
     - Symbolic representations and reinforcement learning: symbolic.md
     - Leveraging model-learning for extreme generalization: model-learning.md
@@ -46,6 +47,7 @@ nav:
     - M. Geist: matthieu-geist.md
     - L. P. Kaelbling: leslie-kaelbling.md
     - T. Lattimore: tor-lattimore.md
+    - D. Lee: dongheui-lee.md
     - J.-B. Mouret: jean-baptiste-mouret.md
     - B. Piot: bilal-piot.md
     - M. Pirotta: matteo-pirotta.md
@@ -58,7 +60,6 @@ nav:
     - C. Tallec: corentin-tallec.md
     - M. Wang: mengdi-wang.md
     - D. Wilson: dennis-wilson.md
-    - D. Lee: dongheui-lee.md
 - Organizers: organizers.md
 - FAQ: faq.md
 

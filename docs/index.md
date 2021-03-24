@@ -89,3 +89,21 @@ Schedule | | | |
 | Communication chair | |
 | --- | --- |
 | [Alix Fauque de Jonquières](alix-fauque-de-jonquieres.md) | Université de Toulouse |
+
+
+## Teaching assistants
+
+- Louis Béthune
+- Etienne de Montbrun
+- Ismail Khalfaoui Hassani
+- Reda Ouhamma
+- Sylvain Roudiere
+- Nguyen Anh Minh MAI
+- Trong-Hieu TRAN
+- Nathalie Neptune
+- Adil Zouitine
+- Pablo Miralles
+- Erwan Lecarpentier
+- Amit Parag
+- Sébastien Kleff
+- Pierre Laforgue

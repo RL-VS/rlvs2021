@@ -16,4 +16,7 @@ Join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [thes
 
 We can issue certificates of *registration* (not attendance, since we cannot really check) for participants who registered through Whova. We will issue them after the school.
 
+## Will the videos be available after the classes?
+
+We will do our best to upload the videos on the website within 2 to 3 days after each talk (provided we have authorization from the speakers).
 

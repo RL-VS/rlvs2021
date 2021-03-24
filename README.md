@@ -6,6 +6,8 @@ This edition is hosted by [ANITI](https://www.aniti.fr).
 Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
 Event website (during the event): [https://whova.com/portal/webapp/rlstc_202011/](https://whova.com/portal/webapp/rlstc_202011/).  
 Mobile app: [https://whova.com/portal/rlstc_202011](https://whova.com/portal/rlstc_202011).  
+Lectures link: [https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
+Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account) 
 
 ## Goals of RLVS
 
@@ -88,3 +90,21 @@ Schedule | | | |
 | Communication chair | |
 | --- | --- |
 | [Alix Fauque de Jonquières](alix-fauque-de-jonquieres.md) | Université de Toulouse |
+
+
+## Teaching assistants
+
+- Louis Béthune
+- Etienne de Montbrun
+- Ismail Khalfaoui Hassani
+- Reda Ouhamma
+- Sylvain Roudiere
+- Nguyen Anh Minh MAI
+- Trong-Hieu TRAN
+- Nathalie Neptune
+- Adil Zouitine
+- Pablo Miralles
+- Erwan Lecarpentier
+- Amit Parag
+- Sébastien Kleff
+- Pierre Laforgue

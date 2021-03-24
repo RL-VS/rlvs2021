@@ -29,7 +29,7 @@ Schedule | | | |
 |            | 9:30-13:00  | [RL fundamentals](rl-fundamentals.md) | [E. Rachelson](emmanuel-rachelson.md) |
 |            | 14:00-16:00 | [Introduction to Deep Learning](deep-learning.md) | [D. Wilson](dennis-wilson.md) |
 |            | 16:30-17:30 | [Reward Processing Biases in Humans and RL Agents](human-behavioral-agents.md) | [I. Rish](irina-rish.md) |
-|            | 17:45-18:45 | TBA | [D. Precup](doina-precup.md) |
+|            | 17:45-18:45 | [Introduction to Hierarchical Reinforcement Learning](hierarchical.md) | [D. Precup](doina-precup.md) |
 | March 26th | 10:00-12:00 | [Stochastic bandits](stochastic-bandits.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 14:00-16:00 | [Monte Carlo Tree Search](mcts.md) | [T. Lattimore](tor-lattimore.md) |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |
@@ -96,7 +96,6 @@ Schedule | | | |
 
 - Louis Béthune
 - Etienne de Montbrun
-- Ismail Khalfaoui Hassani
 - Reda Ouhamma
 - Sylvain Roudiere
 - Nguyen Anh Minh MAI

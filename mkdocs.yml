@@ -24,6 +24,7 @@ nav:
     - RL fundamentals: rl-fundamentals.md
     - Intro to Deep Learning: deep-learning.md
     - Reward Processing Biases in Humans and RL Agents: human-behavioral-agents.md
+    - Introduction to Hierarchical Reinforcement Learning: hierarchical.md
     - Stochastic bandits: stochastic-bandits.md
     - Monte Carlo Tree Search: mcts.md
     - Multi-armed bandits in clinical trials: clinical.md

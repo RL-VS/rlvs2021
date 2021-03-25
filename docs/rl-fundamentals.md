@@ -10,5 +10,5 @@ The overall goal of this session is to provide the RLVS participants with an ove
 
 ## Class material
 
-[Notebook](#)
+[Notebook](https://github.com/erachelson/rlvs_rl_fundamentals)
 

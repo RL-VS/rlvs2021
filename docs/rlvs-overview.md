@@ -10,5 +10,5 @@ This short introduction will present the organization of RLVS 2021 and the progr
 
 ## Class material
 
-[Presentation slides](../classes/rlvs_overview.pdf)
+[Presentation slides](rlvs_overview/rlvs_overview.pdf)
 

@@ -9,5 +9,6 @@ Deep Learning, a form of machine learning inspired by biological learning, has p
 [Dennis Wilson](dennis-wilson.md)
 
 ## Class material
+[Github page](https://d9w.github.io/deep-learning-intro/)
 
 

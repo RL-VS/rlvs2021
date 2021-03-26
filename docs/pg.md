@@ -23,3 +23,7 @@ Starting from the general policy search problem and direct policy search methods
 11. Wrap-up 
 
 # Class material
+
+[Slides](class-material/pg/from_pg_to_ac.zip)   
+
+

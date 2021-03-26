@@ -9,5 +9,5 @@ Monte Carlo Tree Search is an algorithm for game tree search most famous for its
 [Tor Lattimore](tor-lattimore.md)
 
 ## Class material
-
+[Slides](class-material/stochastic-bandits-mcts/Lattimore-slides.pdf)
 

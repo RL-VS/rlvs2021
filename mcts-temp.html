@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="2021 Reinforcement Learning Virtual School">
+    
+    <link rel="canonical" href="https://RL-VS.github.io/rlvs2021/mcts-temp.html">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    
+    <title>Monte Carlo Tree Search - 2021 RL Virtual School</title>
+    
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/v4-shims.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.min.css">
+    <link href='//rsms.me/inter/inter.css' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="css/base.min.css" rel="stylesheet">
+    <link href="css/cinder.min.css" rel="stylesheet">
+
+    
+        
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
+        
+    
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    
+
+     
+</head>
+
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            
+              <a class="navbar-brand" href=".">2021 RL Virtual School</a>
+            
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="index.html">RLVS home</a>
+                    </li>
+                
+                
+                
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Classes <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li >
+    <a href="rlvs-overview.html">RLVS overview</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="rl-fundamentals.html">RL fundamentals</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="deep-learning.html">Intro to Deep Learning</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="human-behavioral-agents.html">Reward Processing Biases in Humans and RL Agents</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="hierarchical.html">Introduction to Hierarchical Reinforcement Learning</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="stochastic-bandits.html">Stochastic bandits</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="mcts.html">Monte Carlo Tree Search</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="clinical.html">Multi-armed bandits in clinical trials</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="dqn.html">Deep Q-Networks and its variants</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="regularized-mdps.html">Regularized MDPs</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="pg.html">Policy Gradients and Actor Critic methods</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="pg-pitfalls.html">Pitfalls in Policy Gradient methods</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="exploration.html">Exploration in Deep RL</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="evo-rl.html">Evolutionary Reinforcement Learning</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="evolving-agents.html">Evolving Agents that Learn More Like Animals</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="micro-data.html">Micro-data Policy Search</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="efficient-motor.html">Efficient Motor Skills Learning in Robotics</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="tips-and-tricks.html">RL tips and tricks</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="symbolic.html">Symbolic representations and reinforcement learning</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="model-learning.html">Leveraging model-learning for extreme generalization</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
+                
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Speakers <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li >
+    <a href="donald-berry.html">D. A. Berry</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="konstantinos-chatzilygeroudis.html">K. Chatzilygeroudis</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="marta-garnelo.html">M. Garnelo</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="matthieu-geist.html">M. Geist</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="leslie-kaelbling.html">L. P. Kaelbling</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="tor-lattimore.html">T. Lattimore</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="dongheui-lee.html">D. Lee</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="jean-baptiste-mouret.html">J.-B. Mouret</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="bilal-piot.html">B. Piot</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="matteo-pirotta.html">M. Pirotta</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="doina-precup.html">D. Precup</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="emmanuel-rachelson.html">E. Rachelson</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="antonin-raffin.html">A. Raffin</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="irina-rish.html">I. Rish</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="sebastian-risi.html">S. Risi</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="olivier-sigaud.html">O. Sigaud</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="corentin-tallec.html">C. Tallec</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="mengdi-wang.html">M. Wang</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="dennis-wilson.html">D. Wilson</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="organizers.html">Organizers</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="faq.html">FAQ</a>
+                    </li>
+                
+                
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/RL-VS/rlvs2021/edit/main/docs/mcts-temp.md">Edit on RL-VS/rlvs2021</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="first-level active"><a href="#monte-carlo-tree-search">Monte Carlo Tree Search</a></li>
+            <li class="second-level"><a href="#abstract">Abstract</a></li>
+                
+            <li class="second-level"><a href="#speaker">Speaker</a></li>
+                
+            <li class="second-level"><a href="#class-material">Class material</a></li>
+                
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h1 id="monte-carlo-tree-search">Monte Carlo Tree Search<a class="headerlink" href="#monte-carlo-tree-search" title="Permanent link">🔗</a></h1>
+<h2 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">🔗</a></h2>
+<p>Monte Carlo Tree Search is an algorithm for game tree search most famous for its application in AlphaGo. I will give a tutorial on this algorithm, which will include a significant practical component in Python. A very basic understanding of Python and Numpy will be useful for students wishing to complete the practical component independently.</p>
+<h2 id="speaker">Speaker<a class="headerlink" href="#speaker" title="Permanent link">🔗</a></h2>
+<p><a href="tor-lattimore.html">Tor Lattimore</a></p>
+<h2 id="class-material">Class material<a class="headerlink" href="#class-material" title="Permanent link">🔗</a></h2>
+<p><a href="class-material/stochastic-bandits-mcts/Lattimore-slides.pdf">Slides (starts at slide 41)</a>.<br />
+<a href="class-material/stochastic-bandits-mcts/connect4_py.zip">Code</a>.<br />
+<a href="https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/stochastic-bandits-mcts/Monte%20Carlo%20Tree%20Search.ipynb">Notebook on colab</a> implementing the same code as above.  </p></div>
+        
+        
+    </div>
+
+    
+      <footer class="col-md-12 text-center">
+          
+          
+            <hr>
+            <p>
+            <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</small>
+            </p>
+          
+
+          
+          
+      </footer>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap-3.0.3.min.js"></script>
+
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
+        
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    <script>var base_url = "."</script>
+    
+    <script src="js/base.js"></script>
+    <script src="search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+</html>

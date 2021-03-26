@@ -10,20 +10,21 @@ Starting from the general policy search problem and direct policy search methods
 
 ## Outline
 
-1. The policy search problem
-2. Policy search methods: direct policy search versus policy gradient
-3. Policy gradient derivation
-4. Understanding the policy gradient
-5. From policy gradient with baseline to actor-critic
-6. Bias-variance trade-off
-7. On-policy vs off-policy
-8. TRPO, ACKTR and PPO
-9. DDPG and TD3
-10. SAC
-11. Wrap-up 
+1. Introduction: the 4 routes to deep RL
+2. The Policy Search problem
+3. The policy gradient derivation
+4. PG with baseline versus Actor-Critic
+5. Bias-variance trade-off
+6. On-policy versus Off-policy
+7. TRPO and ACKTR
+8. Proximal Policy Optimization (PPO)
+9. Deep Deterministic Policy Gradient (and TD3)
+10. Soft Actor Critic
+11. Policy Gradient and Reward Weighted Regression
+12. Wrap-up, Take Home Messages
 
 # Class material
 
-[Slides](class-material/pg/from_pg_to_ac.zip)   
+[Slides (zip file)](class-material/pg/from_pg_to_ac.zip)   
 
 

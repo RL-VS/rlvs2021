@@ -13,4 +13,5 @@ I will introduce bandit problems and present the most well known algorithms base
 ## Class material
 
 [Slides](class-material/stochastic-bandits-mcts/Lattimore-slides.pdf)
+[The Bandit Algorithms book](https://tor-lattimore.com/downloads/book/book.pdf)
 

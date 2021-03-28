@@ -16,4 +16,6 @@ I will introduce bandit problems and present the most well known algorithms base
 [Code](class-material/stochastic-bandits-mcts/bandits.zip)   
 [The Bandit Algorithms book](https://tor-lattimore.com/downloads/book/book.pdf)   
 [Notebook on colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/stochastic-bandits-mcts/Stochastic%20Bandits.ipynb) implementing the same code as above.  
+[Video recording](https://us02web.zoom.us/rec/play/uVmfK2G7sCAOziq3WOCMwyKdh2WwIpgrwiJlTce7ZDrcTS3N5VeMXF02hUtjybksDFx5gLcfP7C0CCjx.zJ657mgqkAGK_7Fa?startTime=1616749212000&_x_zm_rtaid=cYqXh5F8Rxqhex-lcA67OA.1616933286464.0a0c1a10574285ccab30e549951279f7&_x_zm_rhtaid=636)
+
 

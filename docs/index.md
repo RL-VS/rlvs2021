@@ -3,11 +3,13 @@
 Welcome to the 2021 Reinforcement Learning Virtual School's website.
 
 This edition is hosted by [ANITI](https://www.aniti.fr).  
-Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
-Event website (during the event): [https://whova.com/portal/webapp/rlstc_202011/](https://whova.com/portal/webapp/rlstc_202011/).  
-Mobile app: [https://whova.com/portal/rlstc_202011](https://whova.com/portal/rlstc_202011).  
-Lectures link: [https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
-Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account) 
+- Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
+- Zoom webinar:[https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
+- Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account)  
+
+There is also an app for registered participants, though we will mostly use Zoom and Matrix. You can download the [mobile app]([https://whova.com/portal/rlstc_202011]) or access it [through your browser](https://whova.com/portal/webapp/rlstc_202011/).
+
+
 
 ## Goals of RLVS
 
@@ -20,7 +22,7 @@ We expect the participants to be a mixture of masters and Ph.D. students, academ
 
 ## RLVS schedule
 
-This condensed schedule does not include class breaks and social events. Times are Central European Time (GMT+1).
+This condensed schedule does not include class breaks and social events. Times are Central European Summer Time (UTC+2).
 
 Schedule | | | |
 | --- | --- | --- | --- |

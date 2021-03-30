@@ -12,5 +12,5 @@
 * [10/ Proximal Policy Optimization (PPO)](10_ppo.pdf)
 * [11/ Deep Deterministic Policy Gradient (and TF3)](11_ddpg.pdf)
 * [12/ Soft Actor Critic](12_sac.pdf)
-* [13/ Policy gradient and Reward Weighted Regression](13_pg.pdf)
+* [13/ Policy gradient and Reward Weighted Regression](13_rwr.pdf)
 * [14/ Wrap-up, Take Home Messages](14_wrap_up.pdf)

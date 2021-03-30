@@ -1,0 +1,16 @@
+# Policy Gradients and Actor Critic methods
+
+* [1/ Introduction: the 4 routes to deep RL](1_ps_intro.pdf)
+* [2/ The Policy Search problem](2_ps_pb.pdf)
+* [3/ The policy gradient derivation (1/3)](3_pg_derivation1.pdf)
+* [4/ The policy gradient derivation (2/3)](4_pg_derivation2.pdf)
+* [5/ The policy gradient derivation (3/3)](5_pg_derivation3.pdf)
+* [6/ PG with baseline versus Actor-Critic](6_baseline_AC.pdf)
+* [7/ Bias variance trade-o](7_bias_variance.pdf)
+* [8/ On-policy versus O-policy](8_ofp.pdf)
+* [9/ TRPO and ACKTR](9_trpo_acktr.pdf)
+* [10/ Proximal Policy Optimization (PPO)](10_ppo.pdf)
+* [11/ Deep Deterministic Policy Gradient (and TF3)](11_ddpg.pdf)
+* [12/ Soft Actor Critic](12_sac.pdf)
+* [13/ Policy gradient and Reward Weighted Regression](13_pg.pdf)
+* [14/ Wrap-up, Take Home Messages](14_wrap_up.pdf)

@@ -25,6 +25,6 @@ Starting from the general policy search problem and direct policy search methods
 
 # Class material
 
-[Slides (zip file)](class-material/pg/from_pg_to_ac.zip)   
+[Slides](class-material/pg/slides.md)   
 
 

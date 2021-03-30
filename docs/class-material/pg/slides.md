@@ -6,8 +6,8 @@
 * [4/ The policy gradient derivation (2/3)](4_pg_derivation2.pdf)
 * [5/ The policy gradient derivation (3/3)](5_pg_derivation3.pdf)
 * [6/ PG with baseline versus Actor-Critic](6_baseline_AC.pdf)
-* [7/ Bias variance trade-o](7_bias_variance.pdf)
-* [8/ On-policy versus O-policy](8_ofp.pdf)
+* [7/ Bias variance trade-off](7_bias_variance.pdf)
+* [8/ On-policy versus Off-policy](8_ofp.pdf)
 * [9/ TRPO and ACKTR](9_trpo_acktr.pdf)
 * [10/ Proximal Policy Optimization (PPO)](10_ppo.pdf)
 * [11/ Deep Deterministic Policy Gradient (and TF3)](11_ddpg.pdf)

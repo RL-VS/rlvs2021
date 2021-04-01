@@ -17,5 +17,5 @@ We will present in a coherent paradigm the different breakthroughs that led to t
 - (Optional) Run the dqn_zoo codebase.
 
 ## Class material:  
-[Notebook](https://colab.sandbox.google.com/drive/17eiga1r04fhBmEMwzkItNMDdGckKcI24)
+[Notebook](https://colab.research.google.com/drive/12wWBLyZv9GaCbt1q4tf47yKcktU-bc2p?usp=sharing)
 

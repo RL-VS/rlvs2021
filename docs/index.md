@@ -37,7 +37,7 @@ Schedule | | | |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |
 | April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md), [C. Tallec](corentin-tallec.md) |
 |            | 15:15-16:15 | [Regularized MDPs](regularized-mdps.md) | [M. Geist](matthieu-geist.md) |
-|            | 16:30-17:30 | TBA | [M. Wang](mengdi-wang.md) |
+|            | 16:30-17:30 | [Regret bounds of model-based reinforcement learning](regret-bound.md) | [M. Wang](mengdi-wang.md) |
 | April 2nd  | 9:00-12:30  | [Policy Gradients and Actor Critic methods](pg.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 14:00-15:00 | [Pitfalls in Policy Gradient methods](pg-pitfalls.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 15:30-17:30 | [Exploration in Deep RL](exploration.md) | [M. Pirotta](matteo-pirotta.md) |

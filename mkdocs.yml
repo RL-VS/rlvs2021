@@ -30,6 +30,7 @@ nav:
     - Multi-armed bandits in clinical trials: clinical.md
     - Deep Q-Networks and its variants: dqn.md
     - Regularized MDPs: regularized-mdps.md
+    - Regret bounds of model-based reinforcement learning: regret-bound.md
     - Policy Gradients and Actor Critic methods: pg.md
     - Pitfalls in Policy Gradient methods: pg-pitfalls.md
     - Exploration in Deep RL: exploration.md

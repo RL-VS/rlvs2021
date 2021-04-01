@@ -16,5 +16,6 @@ We will present in a coherent paradigm the different breakthroughs that led to t
 - Basic notions of Python and JAX.
 - (Optional) Run the dqn_zoo codebase.
 
-## Class material
+## Class material:  
+[Notebook](https://colab.sandbox.google.com/drive/17eiga1r04fhBmEMwzkItNMDdGckKcI24)
 

@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="2021 Reinforcement Learning Virtual School">
     
-    <link rel="canonical" href="https://RL-VS.github.io/rlvs2021/dqn.html">
+    <link rel="canonical" href="https://RL-VS.github.io/rlvs2021/regret-bound.html">
     <link rel="shortcut icon" href="img/favicon.ico">
 
     
-    <title>Deep Q-Networks and its variants - 2021 RL Virtual School</title>
+    <title>Regret bounds of model-based reinforcement learning - 2021 RL Virtual School</title>
     
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -128,7 +128,7 @@
 
                         
                             
-<li class="active">
+<li >
     <a href="dqn.html">Deep Q-Networks and its variants</a>
 </li>
 
@@ -140,7 +140,7 @@
 
                         
                             
-<li >
+<li class="active">
     <a href="regret-bound.html">Regret bounds of model-based reinforcement learning</a>
 </li>
 
@@ -353,17 +353,17 @@
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="clinical.html">
+                        <a rel="prev" href="regularized-mdps.html">
                             <i class="fas fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="next" href="regularized-mdps.html">
+                        <a rel="next" href="pg.html">
                             Next <i class="fas fa-arrow-right"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://github.com/RL-VS/rlvs2021/edit/main/docs/dqn.md">Edit on RL-VS/rlvs2021</a>
+                        <a href="https://github.com/RL-VS/rlvs2021/edit/main/docs/regret-bound.md">Edit on RL-VS/rlvs2021</a>
                     </li>
             </ul>
         </div>
@@ -375,12 +375,10 @@
         
         <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="first-level active"><a href="#deep-q-networks-and-its-variants">Deep Q-Networks and its variants</a></li>
+        <li class="first-level active"><a href="#regret-bounds-of-model-based-reinforcement-learning">Regret bounds of model-based reinforcement learning</a></li>
             <li class="second-level"><a href="#abstract">Abstract</a></li>
                 
             <li class="second-level"><a href="#speakers">Speakers</a></li>
-                
-            <li class="second-level"><a href="#prerequisites">Prerequisites</a></li>
                 
             <li class="second-level"><a href="#class-material">Class material</a></li>
                 
@@ -388,18 +386,11 @@
 </div></div>
         <div class="col-md-9" role="main">
 
-<h1 id="deep-q-networks-and-its-variants">Deep Q-Networks and its variants<a class="headerlink" href="#deep-q-networks-and-its-variants" title="Permanent link">🔗</a></h1>
+<h1 id="regret-bounds-of-model-based-reinforcement-learning">Regret bounds of model-based reinforcement learning<a class="headerlink" href="#regret-bounds-of-model-based-reinforcement-learning" title="Permanent link">🔗</a></h1>
 <h2 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">🔗</a></h2>
-<p>We will present in a coherent paradigm the different breakthroughs that led to the seminal paper Deep Q-Networks (DQN). Starting from dynamic programming and the value iteration algorithm, we will show how DQN can be seen as a particular instance of an approximate value iteration algorithm. Then, we will present an open-source codebase released by DeepMind called dqn_zoo that implements in JAX the DQN algorithm. Finally, we will present the variants of DQN, from Double DQN (DDQN) to Implicite Quantile DQN (IQN)  and more.</p>
+<p>We discuss some recent results on model-based methods for online reinforcement learning (RL) . The goal of online RL is to adaptively explore an unknown environment and learn to act with provable regret bounds. In particular, we focus on finite-horizon episodic RL where the unknown transition law belongs to a generic family of models. We propose a model based ‘value-targeted regression’ RL algorithm that is based on optimism principle: In each episode, the set of models that are `consistent' with the data collected is constructed. The criterion of consistency is based on the total squared error of that the model incurs on the task of predicting values as determined by the last value estimate along the transitions. The next value function is then chosen by solving the optimistic planning problem with the constructed set of models. We derive a bound on the regret, for arbitrary family of transition models, using the notion of the so-called Eluder dimension proposed by Russo &amp; Van Roy (2014). </p>
 <h2 id="speakers">Speakers<a class="headerlink" href="#speakers" title="Permanent link">🔗</a></h2>
-<p><a href="bilal-piot.html">Bilal Piot</a></p>
-<p><a href="corentin-tallec.html">Corentin Tallec</a></p>
-<h2 id="prerequisites">Prerequisites<a class="headerlink" href="#prerequisites" title="Permanent link">🔗</a></h2>
-<ul>
-<li>Understanding of Markov Decisions Processes and Bellman equations (starting point of the presentation)</li>
-<li>Basic notions of Python and JAX.</li>
-<li>(Optional) Run the dqn_zoo codebase.</li>
-</ul>
+<p><a href="mengdi-wang.html">Mengdi Wang</a>  </p>
 <h2 id="class-material">Class material<a class="headerlink" href="#class-material" title="Permanent link">🔗</a></h2></div>
         
         

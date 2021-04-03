@@ -9,6 +9,8 @@ We discuss some recent results on model-based methods for online reinforcement l
 
 
 ## Class material
+[Slides](class-material/regret_bounds_model_based_rl/RLVS-Wang-modelRL.pdf)
+
 [Video](https://us02web.zoom.us/rec/play/pYPCiE95k7RGRbLWXSgQ-kWUMGpdopDPntSwl7ehxu7YkkwywQUd6fdjiFMD6yZdJh2zDRm-WM9LG6Kv.QyOobcsChamMszxF?startTime=1617287469000&_x_zm_rtaid=bEWCP9bZQcqdgw2uo6bNZQ.1617351700726.be5ebfbe27a7cf6a6a07cc5f95a28017&_x_zm_rhtaid=842)
 
 

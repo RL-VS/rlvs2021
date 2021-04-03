@@ -9,5 +9,5 @@ In this talk, I will present the behavior of variants of the REINFORCE algorithm
 [Olivier Sigaud](olivier-sigaud.md)
 
 ## Class material
-
-
+[Video](https://us02web.zoom.us/rec/play/h-Og0ljNtCgo_sDVtvnycfgcjvaCOmDC1fJQFwMGIr0uHGejuaSvUePAdyEwK1ENx24phy9UAXqKzzmq.sTmU_aXpiiTx5ovj?startTime=1617364696000&_x_zm_rtaid=nOHZ7rLgRHWAXmTZhFlw8A.1617486237718.4cd342536bd4f823bab17ecc68d4f014&_x_zm_rhtaid=418)
+[Slides](class-material/pg/slides.md) 

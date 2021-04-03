@@ -24,7 +24,7 @@ Starting from the general policy search problem and direct policy search methods
 12. Wrap-up, Take Home Messages
 
 # Class material
-
+[Video](https://us02web.zoom.us/rec/play/3RUm9ZnPpeGRjY3p9LW9I9PtjqnmLWQrnHB-cWmo3f4PuuARghEJl7Jkg9FkeEADqyQvHoHgrligW4Nl.avd2bGu7EB1tY0jE?startTime=1617346627000&_x_zm_rtaid=nOHZ7rLgRHWAXmTZhFlw8A.1617486237718.4cd342536bd4f823bab17ecc68d4f014&_x_zm_rhtaid=418)
 [Slides](class-material/pg/slides.md)   
 
 

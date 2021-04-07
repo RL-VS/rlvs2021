@@ -3,11 +3,13 @@
 Welcome to the 2021 Reinforcement Learning Virtual School's website.
 
 This edition is hosted by [ANITI](https://www.aniti.fr).  
-Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
-Event website (during the event): [https://whova.com/portal/webapp/rlstc_202011/](https://whova.com/portal/webapp/rlstc_202011/).  
-Mobile app: [https://whova.com/portal/rlstc_202011](https://whova.com/portal/rlstc_202011).  
-Lectures link: [https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
-Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account) 
+- Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
+- Zoom webinar:[https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
+- Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account)  
+
+There is also an app for registered participants, though we will mostly use Zoom and Matrix. You can download the [mobile app](https://whova.com/portal/rlstc_202011) or access it [through your browser](https://whova.com/portal/webapp/rlstc_202011/).
+
+
 
 ## Goals of RLVS
 
@@ -20,7 +22,7 @@ We expect the participants to be a mixture of masters and Ph.D. students, academ
 
 ## RLVS schedule
 
-This condensed schedule does not include class breaks and social events. Times are Central European Time (GMT+1).
+This condensed schedule does not include class breaks and social events. Times are Central European Summer Time (UTC+2).
 
 Schedule | | | |
 | --- | --- | --- | --- |
@@ -35,7 +37,7 @@ Schedule | | | |
 |            | 16:30-17:30 | [Multi-armed bandits in clinical trials](clinical.md) | [D. A. Berry](donald-berry.md) |
 | April 1st  | 9:00-15:00  | [Deep Q-Networks and its variants](dqn.md) | [B. Piot](bilal-piot.md), [C. Tallec](corentin-tallec.md) |
 |            | 15:15-16:15 | [Regularized MDPs](regularized-mdps.md) | [M. Geist](matthieu-geist.md) |
-|            | 16:30-17:30 | TBA | [M. Wang](mengdi-wang.md) |
+|            | 16:30-17:30 | [Regret bounds of model-based reinforcement learning](regret-bound.md) | [M. Wang](mengdi-wang.md) |
 | April 2nd  | 9:00-12:30  | [Policy Gradients and Actor Critic methods](pg.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 14:00-15:00 | [Pitfalls in Policy Gradient methods](pg-pitfalls.md) | [O. Sigaud](olivier-sigaud.md) |
 |            | 15:30-17:30 | [Exploration in Deep RL](exploration.md) | [M. Pirotta](matteo-pirotta.md) |
@@ -46,7 +48,7 @@ Schedule | | | |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
 |            | 14:30-15:30 | [Symbolic representations and reinforcement learning](symbolic.md) | [M. Garnelo](marta-garnelo.md) |
 |            | 15:45-16:45 | [Leveraging model-learning for extreme generalization](model-learning.md) | [L. P. Kaelbling](leslie-kaelbling.md) |
-|            | 17:00-18:00 | RLVS wrap-up | [E. Rachelson](emmanuel-rachelson.md) |
+|            | 17:00-18:00 | RLVS wrap-up | [E. Rachelson](emmanuel-rachelson.md), [S. Gerchinovitz](sebastien-gerchinovitz.md) |
 
 ## Speakers
 

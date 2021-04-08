@@ -48,7 +48,7 @@ Schedule | | | |
 | April 9th  | 9:00-13:00  | [RL tips and tricks](tips-and-tricks.md) | [A. Raffin](antonin-raffin.md) |
 |            | 14:30-15:30 | [Symbolic representations and reinforcement learning](symbolic.md) | [M. Garnelo](marta-garnelo.md) |
 |            | 15:45-16:45 | [Leveraging model-learning for extreme generalization](model-learning.md) | [L. P. Kaelbling](leslie-kaelbling.md) |
-|            | 17:00-18:00 | RLVS wrap-up | [E. Rachelson](emmanuel-rachelson.md), [S. Gerchinovitz](sebastien-gerchinovitz.md) |
+|            | 17:00-18:00 | [RLVS wrap-up](wrap-up.md) | [E. Rachelson](emmanuel-rachelson.md), [S. Gerchinovitz](sebastien-gerchinovitz.md) |
 
 ## Speakers
 

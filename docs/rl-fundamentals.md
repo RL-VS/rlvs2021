@@ -10,5 +10,5 @@ The overall goal of this session is to provide the RLVS participants with an ove
 
 ## Class material
 
-[Notebook](https://github.com/erachelson/rlvs_rl_fundamentals)   
+[Notebook](class-material/rl_fundamentals/rlvs_rl_fundamentals.zip) ([colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/rl_fundamentals/RL%20fundamentals.ipynb)) ([Original repo](https://github.com/erachelson/rlvs_rl_fundamentals))   
 [Video recording](https://us02web.zoom.us/rec/share/MWtnw0po1eTht9TZ2-WgmisIW1eV0TUtJ-pOh6j4yy3v7KxPj8lQBDpR0l2uKCl4.yu9MGKmvEd-sUYZ9?startTime=1616661078000)

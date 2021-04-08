@@ -10,4 +10,5 @@ As a fundamental cornerstone in the development of intelligent robotic systems, 
 
 ## Class material
 
+[Slides](class-material/efficient-motor/RLVS_Lee.pdf)   
 

@@ -20,6 +20,7 @@ repo_url: https://github.com/RL-VS/rlvs2021
 nav:
 - RLVS home: index.md
 - Classes: 
+    - Opening remarks: opening.md
     - RLVS overview: rlvs-overview.md
     - RL fundamentals: rl-fundamentals.md
     - Intro to Deep Learning: deep-learning.md
@@ -41,6 +42,7 @@ nav:
     - RL tips and tricks: tips-and-tricks.md
     - Symbolic representations and reinforcement learning: symbolic.md
     - Leveraging model-learning for extreme generalization: model-learning.md
+    - Wrap-up: wrap-up.md
     
 - Speakers:
     - D. A. Berry: donald-berry.md

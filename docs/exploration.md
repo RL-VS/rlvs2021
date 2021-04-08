@@ -10,6 +10,6 @@ One of the major challenges in reinforcement learning (RL) is the trade-off betw
 
 ## Class material
 
-[Slides](https://rlgammazero.github.io/docs/2021_RLVS_exploration_deepRL.pdf)
+[Slides](class-material/exploration/2021_RLVS_exploration_deepRL.pdf) ([original file](https://rlgammazero.github.io/docs/2021_RLVS_exploration_deepRL.pdf) on the [RLGammaZero site](https://rlgammazero.github.io))  
 
 

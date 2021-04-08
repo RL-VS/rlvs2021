@@ -26,6 +26,7 @@ Starting from the general policy search problem and direct policy search methods
 # Class material
 [Video recording](https://us02web.zoom.us/rec/play/3RUm9ZnPpeGRjY3p9LW9I9PtjqnmLWQrnHB-cWmo3f4PuuARghEJl7Jkg9FkeEADqyQvHoHgrligW4Nl.avd2bGu7EB1tY0jE?startTime=1617346627000&_x_zm_rtaid=nOHZ7rLgRHWAXmTZhFlw8A.1617486237718.4cd342536bd4f823bab17ecc68d4f014&_x_zm_rhtaid=418)  
 Slides:   
+
 1. [Introduction: the 4 routes to deep RL](class-material/pg/1_ps_intro.pdf)
 2. [The Policy Search problem](class-material/pg/2_ps_pb.pdf)
 3. The policy gradient derivation ([part 1/3](class-material/pg/3_pg_derivation1.pdf)) ([part 2/3](class-material/pg/4_pg_derivation2.pdf)) ([part 3/3](class-material/pg/5_pg_derivation3.pdf))

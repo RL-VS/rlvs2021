@@ -20,8 +20,8 @@ Slides:
 
 Demos:
 
-- On [Bayesian Optimization](https://github.com/jbmouret/bo_tutorial) ([colab link](https://colab.research.google.com/github/jbmouret/bo_tutorial/blob/main/bo.ipynb)).
-- On [policy search priors](https://github.com/costashatz/ps_tutorial).
+- On [Bayesian Optimization](class-material/micro-data/bo_tutorial.zip) ([colab link](https://colab.research.google.com/github/jbmouret/bo_tutorial/blob/main/bo.ipynb)) ([original repo](https://github.com/jbmouret/bo_tutorial)).
+- On [policy search priors](class-material/micro-data/ps_tutorial.zip) ([original repo](https://github.com/costashatz/ps_tutorial)).
 
 Readings:  
 [1] [https://arxiv.org/abs/1807.02303](https://arxiv.org/abs/1807.02303)

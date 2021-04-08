@@ -12,12 +12,12 @@ Reinforcement learning traditionally takes inspiration from operant conditioning
 ## Class material
 
 + [Introduction](class-material/evolutionary/light-virtual_school_evo_intro.pdf)
-+ [Evolutionary Strategies](class-material/evolutionary/Evolutionary Strategies.ipynb)
-([Colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/evolutionary/Evolutionary%20Strategies.ipynb))
++ [Evolutionary Strategies](class-material/evolutionary/es.zip)
+([Colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/evolutionary/es/Evolutionary%20Strategies.ipynb))
 + [Multi-Objective Optimization](class-material/evolutionary/multi-objective_optimization.pdf)
 + [Neuroevolution](class-material/evolutionary/light-virtual_school_neat_hyperneat.pdf)
 + [Beyond the fitness function](class-material/evolutionary/light-virtual_school_qd.pdf)
-+ [MAP-Elites tutorial](https://github.com/jbmouret/map_elites_tutorial)
++ [MAP-Elites tutorial](class-material/evolutionary/map_elites_tutorial.zip) ([Colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/evolutionary/map_elites_tutorial/map_elites.ipynb)) ([original repo](https://github.com/jbmouret/map_elites_tutorial))
 
 Readings:
 

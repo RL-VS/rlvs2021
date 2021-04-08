@@ -11,6 +11,18 @@ Most policy search algorithms require thousands of training episodes to find an 
 
 ## Class material
 
+Slides:
+
+1. [Introduction](class-material/micro-data/0_light-virtual_school_micro_data-intro-conclusion.pdf)
+2. [Priors on policy structures](class-material/micro-data/1_light-virtual_school_micro_data-policies.pdf)
+3. [Bayesian Optimization](class-material/micro-data/2_light-virtual_school_bo.pdf)
+4. [Model based policy search](class-material/micro-data/3_light-virtual_school_micro_data-model_based.pdf)
+
+Demos:
+
+- On [Bayesian Optimization](https://github.com/jbmouret/bo_tutorial) ([colab link](https://colab.research.google.com/github/jbmouret/bo_tutorial/blob/main/bo.ipynb)).
+- On [policy search priors](https://github.com/costashatz/ps_tutorial).
+
 Readings:  
 [1] [https://arxiv.org/abs/1807.02303](https://arxiv.org/abs/1807.02303)
 

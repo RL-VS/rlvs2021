@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Starting from the general policy search problem and direct policy search methods, I will give a didactical presentation of the Policy Gradient Theorem and explain some variants of the REINFORCE algorithm. From there, I will move step by step to presenting more advanced methods such as TRPO, PPO and Actor-Critic methods such as DDPG and SAC. 
+Starting from the general policy search problem and direct policy search methods, I will give a didactical presentation of the Policy Gradient Theorem and explain some variants of the REINFORCE algorithm. From there, I will move step by step to present more advanced methods such as TRPO, PPO, and Actor-Critic methods such as DDPG and SAC. 
 
 # Speaker
 

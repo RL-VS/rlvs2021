@@ -2,7 +2,7 @@
 
 ## Abstract
 
-We will present in a coherent paradigm the different breakthroughs that led to the seminal paper Deep Q-Networks (DQN). Starting from dynamic programming and the value iteration algorithm, we will show how DQN can be seen as a particular instance of an approximate value iteration algorithm. Then, we will present an open-source codebase released by DeepMind called dqn_zoo that implements in JAX the DQN algorithm. Finally, we will present the variants of DQN, from Double DQN (DDQN) to Implicite Quantile DQN (IQN)  and more.
+We will present in a coherent paradigm the different breakthroughs that led to the seminal paper Deep Q-Networks (DQN). Starting from dynamic programming and the value iteration algorithm, we will show how DQN can be seen as a particular instance of an approximate value iteration algorithm. Then, we will present an open-source codebase released by DeepMind called dqn_zoo that implements in JAX the DQN algorithm. Finally, we will present the variants of DQN, from Double DQN (DDQN) to Implicite Quantile DQN (IQN) and more.
 
 ## Speakers
 

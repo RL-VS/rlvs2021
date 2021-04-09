@@ -10,6 +10,6 @@ Deep neuroevolution, a combination of deep neural networks and evolutionary algo
 
 ## Class material
 
-[Slides](class-material/evolving-agents/2021_risI_RL_school.pdf)  
-
+[Slides](class-material/evolving-agents/2021_risI_RL_school.pdf)   
+[Video recording](https://us02web.zoom.us/rec/share/JbQjBBmjyShfeFlTzRrmzNIaudpXFm7zxqzyW5ShweyIXObRoddeCbQHVQu3HHk.o4MmIY1XbxKTfasR?startTime=1617874220000)
 

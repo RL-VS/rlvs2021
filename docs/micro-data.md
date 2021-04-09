@@ -11,6 +11,8 @@ Most policy search algorithms require thousands of training episodes to find an 
 
 ## Class material
 
+[Video recording](https://us02web.zoom.us/rec/share/JbQjBBmjyShfeFlTzRrmzNIaudpXFm7zxqzyW5ShweyIXObRoddeCbQHVQu3HHk.o4MmIY1XbxKTfasR?startTime=1617883414000)  
+
 Slides:
 
 1. [Introduction](class-material/micro-data/0_light-virtual_school_micro_data-intro-conclusion.pdf)

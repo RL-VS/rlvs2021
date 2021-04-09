@@ -17,7 +17,7 @@ Python programming, RL basics, (recommended: Google account for the practical se
 [Stable Baselines 3 website](https://github.com/DLR-RM/stable-baselines3)    
 [Stable Baselines 3 documentation](https://stable-baselines3.readthedocs.io/)  
 [Presentation slides](https://araffin.github.io/slides/rlvs-tips-tricks/)  
-Hands-on session: [presentation](https://araffin.github.io/slides/rlvs-sb3-handson/), [repo](https://github.com/araffin/rl-handson-rlvs21) and [notebook on colab](https://colab.research.google.com/github/araffin/rl-handson-rlvs21/blob/main/rlvs_hands_on_sb3.ipynb).  
+Hands-on session: [presentation](https://araffin.github.io/slides/rlvs-sb3-handson/), [repo](https://github.com/araffin/rl-handson-rlvs21) and [notebook on colab](https://colab.research.google.com/github/araffin/rl-handson-rlvs21/blob/main/rlvs_hands_on_sb3.ipynb)  
 
 ## Outline
 

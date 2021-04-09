@@ -16,6 +16,8 @@ Python programming, RL basics, (recommended: Google account for the practical se
 
 Website: [https://github.com/DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)    
 Doc: [https://stable-baselines3.readthedocs.io/en/master/](https://stable-baselines3.readthedocs.io/en/master/)  
+Slides: [https://araffin.github.io/slides/rlvs-tips-tricks/](https://araffin.github.io/slides/rlvs-tips-tricks/)  
+Hands-on session: [https://araffin.github.io/slides/rlvs-sb3-handson/](https://araffin.github.io/slides/rlvs-sb3-handson/)  
 
 ## Outline
 

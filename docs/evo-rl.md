@@ -23,6 +23,6 @@ Reinforcement learning traditionally takes inspiration from operant conditioning
 
 Readings:  
 
-+ [https://www.nature.com/articles/s42256-018-0006-z](https://www.nature.com/articles/s42256-018-0006-z)  
-+ [https://www.cell.com/iscience/fulltext/S2589-0042(20)30928-7](https://www.cell.com/iscience/fulltext/S2589-0042(20)30928-7)
++ [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z)  
++ [Evolving the Behavior of Machines: From Micro to Macroevolution](https://www.cell.com/iscience/fulltext/S2589-0042(20)30928-7)
 

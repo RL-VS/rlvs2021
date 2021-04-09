@@ -13,8 +13,8 @@ We will present in a coherent paradigm the different breakthroughs that led to t
 ## Prerequisites
 
 - Understanding of Markov Decisions Processes and Bellman equations (starting point of the presentation)
-- Basic notions of Python and JAX.
-- (Optional) Run the dqn_zoo codebase.
+- Basic notions of Python and JAX
+- (Optional) Run the dqn_zoo codebase
 
 ## Class material:  
 

@@ -2,7 +2,7 @@
 
 Welcome to the 2021 Reinforcement Learning Virtual School's website.
 
-This edition is hosted by [ANITI](https://www.aniti.fr).  
+This edition is hosted by [ANITI](https://www.aniti.fr/en).  
 - Event frontpage: [https://rlvs.aniti.fr](https://rlvs.aniti.fr).  
 - Zoom webinar:[https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09](https://us02web.zoom.us/j/86168201204?pwd=aHBEYllXOHllSmRDUVhZaXhoam9xZz09)  
 - Chat sessions: join [here](https://matrix.to/#/#rlvs-welcome:univ-toulouse.fr) (or follow [these instructions](matrix/matrix_rlvs_guidelines.pdf) if you don't have a Matrix account)  

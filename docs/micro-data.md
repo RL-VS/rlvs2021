@@ -26,7 +26,7 @@ Demos:
 - On [policy search priors](class-material/micro-data/ps_tutorial.zip) ([original repo](https://github.com/costashatz/ps_tutorial)).
 
 Readings:  
-[1] [https://arxiv.org/abs/1807.02303](https://arxiv.org/abs/1807.02303)
+[A survey on policy search algorithms for learning robot controllers in a handful of trials](https://arxiv.org/abs/1807.02303)
 
 
 

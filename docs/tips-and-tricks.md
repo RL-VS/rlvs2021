@@ -41,3 +41,8 @@ Hands-on session: [presentation](https://araffin.github.io/slides/rlvs-sb3-hands
     2. Questions? (5 minutes)
     3. Practical Session - Code along (1h+)
 
+## Class material
+[Video](https://us02web.zoom.us/rec/play/MDaL9KrjVItKWX69GMQYGLGiCEsctCWk7CrXmrumDHTa2wGpFxSRliwLs3W8MPYDOvxH1yLcdOZQDDl0.yOHYE9XFGf7D0K4y?startTime=1617951840000&_x_zm_rtaid=ymYVeH5TS-yFo43GnN8WBA.1618294478147.5eaefc2413c244edb1d881fa39ddc8c2&_x_zm_rhtaid=167)  
+[Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3)  
+[Stable Baselines 3 Documentation](https://stable-baselines3.readthedocs.io/en/master/)
+

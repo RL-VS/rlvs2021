@@ -10,6 +10,6 @@ In this talk, I will present the behavior of variants of the REINFORCE algorithm
 
 ## Class material
 [Video](https://us02web.zoom.us/rec/play/h-Og0ljNtCgo_sDVtvnycfgcjvaCOmDC1fJQFwMGIr0uHGejuaSvUePAdyEwK1ENx24phy9UAXqKzzmq.sTmU_aXpiiTx5ovj?startTime=1617364696000&_x_zm_rtaid=nOHZ7rLgRHWAXmTZhFlw8A.1617486237718.4cd342536bd4f823bab17ecc68d4f014&_x_zm_rhtaid=418)   
-
-
+Slides [(1/4)](class-material/pg-pitfalls/1_cartpole_working.pdf) [(2/4)](class-material/pg-pitfalls/2_cartpole_issues.pdf) [(3/4)](class-material/pg-pitfalls/3_critic_learning.pdf) [(4/4)](class-material/pg-pitfalls/4_other_benchmarks.pdf)   
+[Github repo](https://github.com/osigaud/Basic-Policy-Gradient-Labs)
 

@@ -35,7 +35,7 @@ Olivier Sigaud provides updated videos for each topic on his youtube channel. We
 3. The policy gradient derivation (part 3/3) [[slides](class-material/pg/5_pg_derivation3.pdf)] [[most recent video](https://www.youtube.com/watch?v=GcJ9hl3T6x8)]
 6. PG with baseline versus Actor-Critic [[slides](class-material/pg/6_baseline_AC.pdf)] [[most recent video](https://www.youtube.com/watch?v=w-X4VSM1-dk)]
 7. Bias variance trade-off [[slides](class-material/pg/7_bias_variance.pdf)] [[most recent video](https://www.youtube.com/watch?v=Ux3k6aOmwPs)]
-8. On-policy versus Off-policy [[slides](class-material/pg/8_ofp.pdf)] [[most recent video](https://www.youtube.com/watch?v=IsFO9XWBIEM)
+8. On-policy versus Off-policy [[slides](class-material/pg/8_ofp.pdf)] [[most recent video](https://www.youtube.com/watch?v=IsFO9XWBIEM)]
 9. TRPO and ACKTR [[slides](class-material/pg/9_trpo_acktr.pdf)] [[most recent video](https://www.youtube.com/watch?v=99xZi1mQjTE)]
 10. Proximal Policy Optimization (PPO) [[slides](class-material/pg/10_ppo.pdf)] [[most recent video](https://www.youtube.com/watch?v=uRNL93jV2HE)]
 11. Deep Deterministic Policy Gradient (and TD3) [[slides](class-material/pg/11_ddpg.pdf)] [[most recent video](https://www.youtube.com/watch?v=0D6a0a1HTtc)]

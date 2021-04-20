@@ -40,4 +40,6 @@ Slides:
 13. [Policy gradient and Reward Weighted Regression](class-material/pg/13_rwr.pdf)
 14. [Wrap-up, Take Home Messages](class-material/pg/14_wrap_up.pdf)
 
+[Olivier Sigaud's youtube channel](https://www.youtube.com/channel/UCLRpWDzTRLlQn7lMRwvK8Hg)
+
 

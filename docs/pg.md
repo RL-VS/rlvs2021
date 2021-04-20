@@ -12,7 +12,9 @@ Starting from the general policy search problem and direct policy search methods
 
 1. Introduction: the 4 routes to deep RL
 2. The Policy Search problem
-3. The policy gradient derivation
+3. The policy gradient derivation (part 1/3)
+3. The policy gradient derivation (part 2/3)
+3. The policy gradient derivation (part 3/3)
 4. PG with baseline versus Actor-Critic
 5. Bias-variance trade-off
 6. On-policy versus Off-policy

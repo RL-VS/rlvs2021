@@ -12,7 +12,8 @@ Early RL was almost completely focused on learning a policy, sometimes via a val
 [Video](https://us02web.zoom.us/rec/play/_tOCAibc1Vl5f-Wwo5kS7tNU83GcjbCAZYpng3p3c0NraZ3FMHl-JShL6FefuaEkDtyTS-JLYgMp3ffz.tX07bsh2m4rDzO1I?startTime=1617975918000&_x_zm_rtaid=ymYVeH5TS-yFo43GnN8WBA.1618294478147.5eaefc2413c244edb1d881fa39ddc8c2&_x_zm_rhtaid=167)   
 [Slides](class-material/model-learning/RLVS_21.pdf)   
 
-Readings:  
+Readings:
+
 - [Blog post](https://lis.csail.mit.edu/the-engineering-science-of-embodied-intelligence/)
 - [General survey on task and motion planning](https://arxiv.org/abs/2010.01083)
 - [Learning models of skills to add to a planner](https://arxiv.org/abs/2006.06444)

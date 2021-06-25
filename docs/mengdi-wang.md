@@ -1,4 +1,4 @@
-# Mendgi Wang
+# Mengdi Wang
 
 ![Photo](img/mwang.jpg)
 

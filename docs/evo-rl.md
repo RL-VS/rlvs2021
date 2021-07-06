@@ -19,7 +19,7 @@ Reinforcement learning traditionally takes inspiration from operant conditioning
 + [Beyond the fitness function](class-material/evolutionary/light-virtual_school_qd.pdf)
 + [MAP-Elites tutorial](class-material/evolutionary/map_elites_tutorial.zip) ([Colab](https://colab.research.google.com/github/RL-VS/rlvs2021/blob/main/docs/class-material/evolutionary/map_elites_tutorial/map_elites.ipynb)) ([original repo](https://github.com/jbmouret/map_elites_tutorial))  
 
-[Video recording](https://us02web.zoom.us/rec/share/JbQjBBmjyShfeFlTzRrmzNIaudpXFm7zxqzyW5ShweyIXObRoddeCbQHVQu3HHk.o4MmIY1XbxKTfasR?startTime=1617865504000)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7J5KK-tYoXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Readings:  
 

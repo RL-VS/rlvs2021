@@ -10,7 +10,7 @@ The final words on the scientific program, the next steps, the acknowledgements,
 [S. Gerchinovitz](sebastien-gerchinovitz.md)
 
 ## Material
-[Video](https://us02web.zoom.us/rec/play/YRCOtIPPXUwyTBk7-3uxgyglnKQwKjf66K6u2DY9BkJAkZz_UEfWdHfFPWjEAumtA7QW060EK2PAv8Yq.8gpAF4tQ6Hf1RbNE?startTime=1617980446000&_x_zm_rtaid=ymYVeH5TS-yFo43GnN8WBA.1618294478147.5eaefc2413c244edb1d881fa39ddc8c2&_x_zm_rhtaid=167)   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_nRZ7K-MU9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Slides](class-material/wrap-up/RLVS_wrap-up.pdf)
 
 

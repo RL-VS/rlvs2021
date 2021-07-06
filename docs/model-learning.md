@@ -9,7 +9,7 @@ Early RL was almost completely focused on learning a policy, sometimes via a val
 [Leslie Kaelbling](leslie-kaelbling.md)
 
 ## Class material
-[Video](https://us02web.zoom.us/rec/play/_tOCAibc1Vl5f-Wwo5kS7tNU83GcjbCAZYpng3p3c0NraZ3FMHl-JShL6FefuaEkDtyTS-JLYgMp3ffz.tX07bsh2m4rDzO1I?startTime=1617975918000&_x_zm_rtaid=ymYVeH5TS-yFo43GnN8WBA.1618294478147.5eaefc2413c244edb1d881fa39ddc8c2&_x_zm_rhtaid=167)   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SocPCz4HbGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Slides](class-material/model-learning/RLVS_21.pdf)   
 
 Readings:

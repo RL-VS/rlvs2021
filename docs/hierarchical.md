@@ -10,4 +10,4 @@ Hierarchical reinforcement learning refers to a class of computational methods t
 
 ## Class material
 
-[Video recording](https://us02web.zoom.us/rec/share/MWtnw0po1eTht9TZ2-WgmisIW1eV0TUtJ-pOh6j4yy3v7KxPj8lQBDpR0l2uKCl4.yu9MGKmvEd-sUYZ9?startTime=1616690713000)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kSFjMely5q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -9,4 +9,4 @@ Bayesian bandit problems have been described in the theoretical statistics liter
 ## Class material
 
 [Slides](class-material/clinical/2021.03.25_RLVS_ANITI_France.ppt)  
-[Video recording](https://us02web.zoom.us/rec/play/c8VeMxF0x3htSdBQsWPHzgZZAF-NwTPcXIu75zSKmum_9TQqq3tsGVsrECwrMwL1RHPly_1AfI1MkBr1.jpU_QOHuMk-Bxdwm?startTime=1616772604000&_x_zm_rtaid=cYqXh5F8Rxqhex-lcA67OA.1616933286464.0a0c1a10574285ccab30e549951279f7&_x_zm_rhtaid=636)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XriR9t3ZrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

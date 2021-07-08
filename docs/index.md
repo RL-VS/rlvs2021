@@ -111,3 +111,4 @@ Schedule | | | |
 - Pierre Laforgue
 
 ![Photo](img/aniti.png)
+![Photo](img/banner.png)
